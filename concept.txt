@@ -1,0 +1,16 @@
+rabim:
+vizConnection: {
+  type: viz_connection
+  default_ip: localhost
+  default_port: 6100
+},
+text_input: {
+  type: text_input
+  label: text
+}
+command_button: {
+  type: command_button
+  text: button
+  command: "nek string ki ga pošlje vizu"
+  color: white
+}

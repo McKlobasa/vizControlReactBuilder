@@ -1,0 +1,17 @@
+{
+  [
+    {
+      "type" : "panel",
+      "name" : "connection",
+      "children" : [
+        {
+          "type" : "commandButton",
+          "commandString" : "0 VIZ*nekineki \0"
+        },
+        {
+
+        }
+      ]
+    }
+  ]
+}
